@@ -34,4 +34,4 @@ Using your experience during this lab, in class discussion, and external sources
 ## Resources
 * [ICSim GitHub Page](https://github.com/zombieCraig/ICSim)
 * [InfoSec Newspaper Lab for ICSim](https://www.securitynewspaper.com/2018/05/03/hack-car-tool/)
-* [Automobile Networks and CAN Slides](/Lectures/14_Automobile_Networks_and_CAN.pdf)
+* Automobile Networks and CAN Slides
